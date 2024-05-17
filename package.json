@@ -48,7 +48,11 @@
   "pnpm": {
     "overrides": {
       "sharp@<0.32.6": ">=0.32.6",
-      "formidable@<3.2.4": ">=3.2.4"
+      "superagent": ">=9.0.0",
+      "@typescript-eslint/parser": "8.0.0-alpha.10",
+      "@typescript-eslint/utils": "8.0.0-alpha.10",
+      "@typescript-eslint/eslint-plugin": "8.0.0-alpha.10",
+      "@typescript-eslint/type-utils": "8.0.0-alpha.10"
     }
   }
 }
